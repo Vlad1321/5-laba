@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "5.cpp",
-              "DocumentMoniker": "C:\\Users\\garus\\source\\repos\\5\\5\\5.cpp",
-              "RelativeDocumentMoniker": "5\\5.cpp",
-              "ToolTip": "C:\\Users\\garus\\source\\repos\\5\\5\\5.cpp",
-              "RelativeToolTip": "5\\5.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-17T20:26:54.541Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -63,6 +50,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.cpp",
+              "DocumentMoniker": "C:\\Users\\garus\\source\\repos\\5\\5\\5.cpp",
+              "RelativeDocumentMoniker": "5\\5.cpp",
+              "ToolTip": "C:\\Users\\garus\\source\\repos\\5\\5\\5.cpp",
+              "RelativeToolTip": "5\\5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T20:26:54.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UnitTest1.cpp",
               "DocumentMoniker": "C:\\Users\\garus\\source\\repos\\5\\UnitTest1\\UnitTest1.cpp",
@@ -71,8 +71,7 @@
               "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-17T20:27:20.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T20:27:20.275Z"
             }
           ]
         }
